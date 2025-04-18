@@ -2,7 +2,7 @@
 
 A basic RESTful API built with **Node.js** and **Express.js** that allows users to perform CRUD operations (Create, Read, Update, Delete) on a list of users. Data is stored **in-memory** (not in a database).
 
-> 💡 Note: This project is created without any AI-generated code. All logic is written manually like a beginner for assignment purposes.
+
 
 ---
 
